@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: conf-web
-        image: ajay23mis0669/conf-web:latest
+        image: ajay23mis0669/html-demo:latest
         ports:
         - containerPort: 9000
 ---
